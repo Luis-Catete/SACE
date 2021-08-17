@@ -1,0 +1,49 @@
+
+.header{	
+
+}
+
+.navbar{
+	background-color: transparent !important;
+}
+
+.navbar .navbar-brand{
+	color: darkslategray;
+	font-weight: bolder;
+	font-size: 1.3em;
+}
+
+.navbar .navbar-nav{
+	margin: 0 auto;
+}
+button{
+	margin:10px;
+}
+a{
+	margin:10px;
+	
+}
+
+.nav-link{
+	font-size: 25px;
+	font-weight: bolder;
+}
+
+#ini{
+	width: 100%;
+}
+#foot1,#foot2{
+	padding: 5px;
+	height: 120px;
+	width: 300px;
+}
+#foot1{
+	margin-left: 100px;
+}
+
+.img1{
+	float: left;
+}
+.img2{
+    float: right;
+}
